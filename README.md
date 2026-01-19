@@ -1,6 +1,6 @@
-# 🖼️ Estágio-SULTS-Curso-SerFrontend-Projeto7-Galeria
+# 🖼️ Estágio-1-Curso-SerFrontend-Projeto7-Galeria
 
-Sétimo projeto desenvolvido durante o curso **SerFrontend**, realizado durante meu estágio na **SULTS** 🚀
+Sétimo projeto desenvolvido durante o curso **SerFrontend**.
 Este projeto tem como objetivo criar uma **galeria de imagens responsiva**, aplicando boas práticas de **HTML5 e CSS3**.
 
 ---
@@ -29,5 +29,4 @@ O foco foi o **aperfeiçoamento das técnicas de layout**, **posicionamento de e
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Yuri Duarte** durante o estágio na **SULTS**,
-como parte do curso **SerFrontend** 💼
+Desenvolvido por **Yuri Duarte** como parte do curso **SerFrontend** 💼
